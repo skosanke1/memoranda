@@ -1,0 +1,3 @@
+module CheckersJUnit {
+	requires junit;
+}
